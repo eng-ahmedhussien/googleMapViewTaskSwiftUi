@@ -1,7 +1,5 @@
 //
 //  MapViewRepresentable.swift
-//  AlDwaaNewApp
-//
 //  Created by ahmed hussien on 21/06/2023.
 //
 
