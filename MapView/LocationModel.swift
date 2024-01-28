@@ -1,6 +1,5 @@
 //
 //  LocationModel.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 11/07/2023.
 //
