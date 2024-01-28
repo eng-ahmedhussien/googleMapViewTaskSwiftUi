@@ -1,6 +1,5 @@
 //
 //  PlacesSearch.swift
-//  AlDwaaNewApp
 //
 //  Created by ahmed hussien on 06/07/2023.
 //
